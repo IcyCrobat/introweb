@@ -3,3 +3,9 @@ body{
     color:white;
     font-size: 24px;
 }
+h1{
+    text-align: center
+}
+h2{
+    color: red;
+}
