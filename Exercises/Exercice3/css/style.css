@@ -1,0 +1,37 @@
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+    font: 1.0em Arial, Helvetica, sans-serif
+}
+h1{
+    text-align: center;
+    border: 5px solid olivedrab;
+}
+.box {
+    float:left;
+	border: 2px solid darkblue;
+	padding-left: 10px;
+    width:23%;
+
+
+}
+.box2 {
+    border: 2px solid red;
+
+         padding-left: 1px;
+         width:75%;
+         float:left;
+}
+.box3 {
+
+    clear:left;
+    width:96%;
+
+}
+img {
+    border: 3px solid lightgray;
+    float:left;
+    width: 32%;
+    padding-left: 215px;
+    padding-right: 215px;
+}
