@@ -1,0 +1,37 @@
+.form-style{
+    max-width: 500px;
+    padding: 20px 12px 10px 20px;
+    font: 13px Arial, Helvetica, sans-serif;
+}
+.Entete{
+    font-weight: bold;
+    font-style: italic;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 10px;
+    font-size: 15px;
+    padding-bottom: 3px;
+}
+.tat
+{
+    font-weight: bold;
+}
+label
+{
+    display:inline-block;
+    width : 30%;
+    margin-left: 1%;
+}
+span
+{
+    color:red;
+}
+input
+{
+    margin-bottom: 3%;
+}
+.Nya{
+    margin-bottom: 3%;
+}
+.bouton{
+    margin-left:31.72%;
+}
